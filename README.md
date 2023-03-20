@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/logo.png" alt="logo" width="1280" height="720">
+    <img src="assets/logo.jpg" alt="logo" width="1280" height="720">
   </a>
   
   <h3 align="center">Discord Nitro Generator and Checker</h3>
@@ -52,7 +52,7 @@
 
 ## About The Project
 
-<img src="assets/example.png" alt="Image of product">
+<img src="assets/example.jpg" alt="Image of product">
 
 It generates and checks discord nitro codes at the same time for maximum efficiency
 
