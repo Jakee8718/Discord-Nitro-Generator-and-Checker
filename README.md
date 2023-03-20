@@ -25,6 +25,11 @@
     <a href="https://discord.gg/qybBqmkcnE">Join the discord</a>
   </p>
 </p>
+ ## 🥅 ・Goals
+
+・ 10 Stars Faster with better update
+
+・ 20  stars Rework all ui + faster + better looking
   
 <details open="open">
   <summary>Table of Contents</summary>
