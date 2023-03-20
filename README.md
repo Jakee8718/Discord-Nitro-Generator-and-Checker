@@ -25,7 +25,7 @@
     <a href="https://discord.gg/qybBqmkcnE">Join the discord</a>
   </p>
 </p>
- ## 🥅 ・Goals
+ # 🥅 ・Goals
 
 ・ 10 Stars Faster with better update
 
