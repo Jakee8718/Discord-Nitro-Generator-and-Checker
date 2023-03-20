@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/logo.png" alt="logo" width="150" height="150">
+    <img src="assets/logo.png" alt="logo" width="1280" height="720">
   </a>
   
   <h3 align="center">Discord Nitro Generator and Checker</h3>
